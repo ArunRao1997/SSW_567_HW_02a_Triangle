@@ -8,7 +8,6 @@ The primary goal of this file is to demonstrate a simple python program to class
 """
 from MyBrand import my_brand
 
-
 def classifyTriangle(a, b, c):
     # verify that all 3 inputs are integers
     # Python's "isinstance(object,type) returns True if the object is of the specified type
